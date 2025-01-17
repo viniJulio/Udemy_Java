@@ -1,4 +1,4 @@
-package PRIMRITO_PROGRAMA;
+package PRIMEIRO_PROGRAMA;
 
 public class OlaMundo {
 
