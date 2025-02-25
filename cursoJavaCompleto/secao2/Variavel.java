@@ -7,8 +7,8 @@ public class Variavel {
         String nome = "Vinicios";
 
         System.out.println(nome);
-
-   //atribuicao de variavel com outra
+        
+        //atribuicao de variavel com outra
 
         String teste = "Teste";
 
@@ -162,6 +162,30 @@ public class Variavel {
         System.out.println(codigoAscii);
         // casting de char para int
 
+
+        //constante
+        final int DIAS_DA_SEMANA = 7;
+
+        System.out.println("Dias da semana: " + DIAS_DA_SEMANA);
+
+        //var
+        var z = 10;
+
+        System.out.println(z);
+
+        z = 5;
+
+        System.out.println(z);
+
+        var texto2 = "teste";
+
+        var doubleTeste = 2.0;
+
+        System.out.println(texto2);
+
+        System.out.println(doubleTeste);
+
+        
 
     }
 
